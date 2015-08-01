@@ -1,0 +1,17 @@
+{
+  "jspm": {
+    "directories": {
+      "packages": "lib"
+    },
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-alpha.33",
+      "es6-shim": "github:es-shims/es6-shim@^0.33.0",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.0",
+      "ts": "github:frankwallis/plugin-typescript@^2.0.4",
+      "zone.js": "npm:zone.js@^0.5.2"
+    },
+    "devDependencies": {
+      "typescript": "github:mhegazy/typescript@v1.5-beta2"
+    }
+  }
+}
